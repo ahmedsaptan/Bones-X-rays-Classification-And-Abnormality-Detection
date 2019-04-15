@@ -1,7 +1,7 @@
 from DataPreProcessing import X, y, IMG_SIZE, x_test, y_test
 from keras import models
 from keras import layers
-from keras.optimizers import SGD, Adam
+from keras.optimizers import SGD
 from keras.applications import InceptionV3
 
 
